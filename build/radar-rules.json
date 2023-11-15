@@ -6479,7 +6479,7 @@
     "lock": [
       {
         "title": "文章 articles",
-        "docs": "https://docs.rsshub.app/routes/programming#cmpxchg8b",
+        "docs": "https://docs.rsshub.app/routes/blog#cmpxchg8b",
         "source": [
           "/articles"
         ],

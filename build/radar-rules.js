@@ -3534,7 +3534,7 @@
         target:(params) => `/cmde/${params.cate.replace('/index.html', '')}` } ] },
   "cmpxchg8b.com":{ _name:"cmpxchg8b",
     lock:[ { title:"文章 articles",
-        docs:"https://docs.rsshub.app/routes/programming#cmpxchg8b",
+        docs:"https://docs.rsshub.app/routes/blog#cmpxchg8b",
         source:[ "/articles" ],
         target:"/cmpxchg8b/articles" } ] },
   "cn-healthcare.com":{ _name:"健康界",
