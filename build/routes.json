@@ -48527,7 +48527,7 @@
         "maintainers": [
           "yuguorui"
         ],
-        "url": "https://huggingface.co/blog/community",
+        "url": "huggingface.co/blog/community",
         "location": "blog-community.ts",
         "module": "() => import('@/routes/huggingface/blog-community.ts')"
       },
